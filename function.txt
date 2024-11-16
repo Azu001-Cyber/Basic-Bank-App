@@ -1,0 +1,27 @@
+# function makes
+i) FUNCTION BASE PARAMETERS
+1, parameterless function
+2, parameterize function
+
+ii) FUNCTION BASE RETURN TYPE
+1, void function
+::::: this is a function that give its data out
+2,non-void function
+::::: this function gives out data
+
+types of parameter....
+non default param
+def app(name, age):
+    pass
+
+defualt param
+def app(name = milk, age = 18):
+    pass
+
+args param #it returns tuple object
+def app(*args):
+    pass
+
+kwargs param
+def app(**kwargs):  #it returns dict
+    pass
